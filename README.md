@@ -1,2 +1,2 @@
 # Adrien-Martineau.fr
-CV and Portfolio at https://adrien-martineau.fr [WIP]
+CV and Portfolio at https://adrien-martineau.fr
